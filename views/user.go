@@ -1,7 +1,7 @@
 package views
 
 import (
-	"github.com/Z0marlin/wocbackend/models"
+	"github.com/Z0marlin/mimir/models"
 	"github.com/gin-gonic/gin"
 )
 

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Z0marlin/wocbackend/models"
-	"github.com/Z0marlin/wocbackend/views"
+	"github.com/Z0marlin/mimir/models"
+	"github.com/Z0marlin/mimir/views"
 	"github.com/gin-gonic/gin"
 )
 

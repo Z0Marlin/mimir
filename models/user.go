@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/Z0marlin/wocbackend/db"
+	"github.com/Z0marlin/mimir/db"
 	"golang.org/x/crypto/bcrypt"
 	"gorm.io/gorm"
 )

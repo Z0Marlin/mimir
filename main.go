@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Z0marlin/wocbackend/controllers"
-	"github.com/Z0marlin/wocbackend/db"
-	"github.com/Z0marlin/wocbackend/models"
+	"github.com/Z0marlin/mimir/controllers"
+	"github.com/Z0marlin/mimir/db"
+	"github.com/Z0marlin/mimir/models"
 	"github.com/gin-gonic/gin"
 )
 
